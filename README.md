@@ -3,10 +3,11 @@
 ## Made by: Faizan Dilawar and Farid Ahmed for their OOP Project at Habib University in Summer 2017.
 
 # Game Setup:
-The following are basic rules and must be followedShuffle your deck.
-Take 5 cards from the top of your deck without looking at them and put them in a row in front of you face down. These face down cards are your shields.
-Draw 5 cards from the top of your deck.
-Decide who goes first by a randomly decided process. (Game deals with it)
+The following are basic rules and must be followed
+1. Shuffle your deck.
+2. Take 5 cards from the top of your deck without looking at them and put them in a row in front of you face down. These face down cards are your shields.
+3. Draw 5 cards from the top of your deck.
+4. Decide who goes first by a randomly decided process. (Game deals with it)
 
 # Player turn start
 1. Start your turn.	
